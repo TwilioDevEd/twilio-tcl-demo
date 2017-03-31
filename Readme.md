@@ -27,7 +27,8 @@ Note that depending on how your Tcl was installed, you may not have some package
 
 An [ActiveTcl](http://www.activestate.com/activetcl) distribution for your platform might be the fastest way for you to get what is required through their Teacup package manager.  Ex:
 <pre>
-    
+# Maybe sudo
+teacup install tls
 </pre>
 
 
